@@ -1,0 +1,643 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_sdl.cpp
+  Button.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Button.cpp(22,15): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Button.cpp(23,16): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Button.cpp(38,46): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Button.cpp(38,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CollisionManager.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(9,28): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(9,21): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(10,28): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(10,21): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(20,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(20,24): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(57,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(57,22): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(58,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(58,23): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(59,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(59,22): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(60,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(60,23): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(174,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(183,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(183,25): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(185,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(185,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(188,60): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(188,50): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(214,19): warning C4244: 'return': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(221,35): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(221,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(224,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(226,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(303,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(303,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(304,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\CollisionManager.cpp(304,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  SpaceShip.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SpaceShip.cpp(10,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SpaceShip.cpp(11,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SpaceShip.cpp(29,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SpaceShip.cpp(29,27): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Sprite.cpp
+  UIControl.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\UIControl.cpp(33,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\UIControl.cpp(33,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DisplayObject.cpp
+  EndScene.cpp
+  FontManager.cpp
+  Game.cpp
+  GameController.cpp
+  GameObject.cpp
+  Label.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(15,15): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(16,16): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(30,52): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(30,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(52,15): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(53,16): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(71,15): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Label.cpp(72,16): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PlayScene.cpp
+  main.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\main.cpp(9,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Plane.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Plane.cpp(40,6): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Plane.cpp(40,3): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Compiling...
+  Player.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(42,7): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(42,4): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(46,7): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(46,4): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(50,7): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(50,4): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(54,7): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(54,4): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(58,7): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Player.cpp(58,4): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Renderer.cpp
+  Scene.cpp
+  ship.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\ship.cpp(12,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\ship.cpp(13,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\ship.cpp(37,46): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\ship.cpp(37,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\ship.cpp(149,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\ship.cpp(149,22): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  SoundManager.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SoundManager.cpp(146,27): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SoundManager.cpp(146,20): warning C4244: 'initializing': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SoundManager.cpp(148,28): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\SoundManager.cpp(148,21): warning C4244: 'initializing': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  EventManager.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\EventManager.cpp(119,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\EventManager.cpp(178,37): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\EventManager.cpp(179,37): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SpriteSheet.cpp
+  StartScene.cpp
+  Target.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Target.cpp(10,15): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Target.cpp(11,16): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Target.cpp(29,48): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Target.cpp(29,45): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  TextureManager.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(137,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(137,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(138,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(138,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(180,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(180,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(181,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(181,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(197,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(197,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(225,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(225,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(232,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(260,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(260,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(261,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(261,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(290,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(290,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(291,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(291,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(310,11): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\TextureManager.cpp(311,11): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Util.cpp
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(252,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(253,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(269,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(301,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(302,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(303,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(304,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(309,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(309,52): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(309,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(309,36): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(315,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(316,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(317,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(318,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(321,24): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(322,24): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(335,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(336,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(337,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(338,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(343,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(357,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(357,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(358,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(358,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(359,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(359,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(360,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(360,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(364,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(364,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(365,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(365,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(366,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(366,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(367,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(367,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(371,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(371,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(372,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(372,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(373,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(373,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(374,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(374,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(378,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(378,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(379,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(379,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(380,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(380,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(381,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(381,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(385,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(385,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(386,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(386,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(387,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(387,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(388,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(388,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(389,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(389,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(390,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(390,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(391,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(391,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(392,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(392,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(419,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(420,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(425,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(435,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\src\Util.cpp(444,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Template.vcxproj -> C:\Users\tonyz\OneDrive\Desktop\GBC ptojects\Semester 2\Aritficial intelligence\Example\GAME3001-W2021.XianZhen\bin\Debug\Template.exe
